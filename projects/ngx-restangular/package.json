@@ -43,9 +43,7 @@
     "@angular/common": "^8.0",
     "@angular/platform-browser": "^8.0",
     "core-js": "^3.0",
-    "rxjs": "^6.0"
-  },
-  "dependencies": {
-    "@types/lodash": "^4.14.62"
+    "rxjs": "^6.0",
+    "lodash": "^4.0"
   }
 }
